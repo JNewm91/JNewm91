@@ -22,9 +22,8 @@ Welcome to my GitHub repository. I’m a detail-oriented Data Analyst with hands
 
 **Education**
 
-TripleTen – B.I. Analytics Program (2024)
-* Certifications in Tableau, Power BI, Spreadsheet Analysis, Business Analytics, and SQL
-University of Kansas – BA in Geographical Studies (2014) GPA: 3.6/4.0
+* TripleTen – B.I. Analytics Program (2024): Certifications in Tableau, Power BI, Spreadsheet Analysis, Business Analytics, and SQL
+* University of Kansas – BA in Geographical Studies (2014) GPA: 3.6/4.0
 
 **Experience**
 
